@@ -1,2 +1,2 @@
-My solutions to EloQuent Javascript exercises
+My solutions to Eloquent Javascript exercises
 http://eloquentjavascript.net
